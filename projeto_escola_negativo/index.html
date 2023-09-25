@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="author" content="#">
+    <meta name="keywords" content="#">
+    <meta name="description" content="#">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Fóruns - Escola Negativo</title>
+</head> 
+<body>
+    <div class="container">
+        <header class="cabecalho">
+            <nav class="cabecalho-menu">
+                <a href="index.html" target="_blank" rel="noopener noreferrer" class="link-logo-cabecalho">
+                    <img src="img/logo.png" class="logo-cabecalho" alt="Logo da Escola Negativo: um polegar virado para baixo">
+                </a>
+                <a href="index.html" target="_blank" rel="noopener noreferrer">
+                    <p class="nome-cabecalho">Escola Negativo</p>
+                </a>
+                <ul class="menu">
+					<li><a href="#">Matriculas</a></li>
+					<li><a href="./agenda.html">Agenda</a></li>
+					<li><a href="#">Atividades Extra</a></li>
+					<li><a href="#">Notas</a></li>
+					<li><a href="./index.html">Fórum</a></li>
+				</ul>
+            </nav>
+        </header>
+        <main class="main">
+            <h1 class="titulo-main">Fórum</h1> 
+            <h4 class="titulo-forum">Últimas publicações</h4>
+            <div class="box">
+                <div class="topo">
+                    <div class="botoes">
+                        <a href="#" rel="noopener noreferrer">
+                            <button class="visualizacao-lista">Visualizar em Lista</button>
+                        </a>
+                        <a href="#" rel="noopener noreferrer">
+                            <button class="visualizacao-cards">Visualizar em Cards</button>
+                        </a>
+                    </div>
+                    <div class="opcoes">
+                        <ul class="opcoes-ul">
+                            <li><a href="#">Criar publicação</a></li>
+                            <li><a href="#">Pesquisar <input type="search" class="pesquisa"></a></li>
+                        </ul>
+                    </div>
+                    <div class="publicacoes">
+                        <div class="topo-publi">
+                            <p>Listar por:</p>
+                            <select name="listar" id="listar">
+                                <option value="data">Data</option>
+                                <option value="titulo">Título</option>
+                                <option value="autor">Autor</option>
+                                <option value="respostas">Respostas</option>
+                                <option value="respostas-novas">Respostas novas</option>
+                            </select>
+                        </div>
+                        <div class="titulos">
+                            <div class="input">
+                                <input type="checkbox">
+                            </div>
+                            <button class="data">Data de publicação</button>
+                            <button class="titulo">Título</button>
+                            <button class="autor">Autor</button>
+                            <button class="respostas">Respostas</button>
+                            <button class="respostas-novas">Respostas novas</button>
+                        </div>
+                        <div class="publis">
+                            <div class="publi-1">
+                                <div class="input-publis">
+                                    <input type="checkbox">
+                                </div>
+                                <p class="data-publis">28/09/2022 18:59</p>
+                                <p class="titulo-publis">Procuro trabalho PHP back-end</p>
+                                <p class="autor-publis">Gabriel Leonardo Dzuman</p>
+                                <p class="respostas-publis">5</p>
+                                <p class="respostas-novas-publis">3</p>
+                            </div>
+                            <div class="publi-2">
+                                <div class="input-publis">
+                                    <input type="checkbox">
+                                </div>
+                                <p class="data-publis">15/11/2022 10:17</p>
+                                <p class="titulo-publis">Grupo de estudos para JavaScript</p>
+                                <p class="autor-publis">Gabriel Leonardo Dzuman</p>
+                                <p class="respostas-publis">8</p>
+                                <p class="respostas-novas-publis">8</p>
+                            </div>
+                            <div class="publi-3">
+                                <div class="input-publis">
+                                    <input type="checkbox">
+                                </div>
+                                <p class="data-publis">01/01/2023 13:45</p>
+                                <p class="titulo-publis">Por que PHP é tão odiado?</p>
+                                <p class="autor-publis">Gabriel Leonardo Dzuman</p>
+                                <p class="respostas-publis">37</p>
+                                <p class="respostas-novas-publis">33</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
