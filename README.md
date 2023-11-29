@@ -1,4 +1,5 @@
 Projeto de Sistemas 2023 - Escola Negativo
+
 O objetivo do projeto será desenvolver um site funcional na temática de escola.
 Os objetivos de desenvolvimento são:
 * Cadastro de alunos ✅
