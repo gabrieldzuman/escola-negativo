@@ -5,7 +5,7 @@ Os objetivos de desenvolvimento são:
 * Cadastro de alunos ✅
 * Cadastro de responsáveis ✅
 * Cadastro de professores ✅
-* Cadastro acadêmico da escola - secretaria
+* Cadastro da secretaria ✅
 * Cadastro acadêmico do aluno - notas, faltas e matérias
 * Cadastro de atividades complementares
 * Módulo financeiro (geração de boletos para pagamento)
