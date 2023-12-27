@@ -4,7 +4,7 @@ O objetivo do projeto será desenvolver um site funcional na temática de escola
 Os objetivos de desenvolvimento são:
 * Cadastro de alunos ✅
 * Cadastro de responsáveis ✅
-* Cadastro de professores
+* Cadastro de professores ✅
 * Cadastro acadêmico da escola - secretaria
 * Cadastro acadêmico do aluno - notas, faltas e matérias
 * Cadastro de atividades complementares
