@@ -1,4 +1,4 @@
-Projeto de Sistemas 2023 - Escola Negativo
+Projeto de Sistemas 2024 - Escola Negativo
 
 O objetivo do projeto será desenvolver um site funcional na temática de escola.
 Os objetivos de desenvolvimento são:
@@ -8,7 +8,7 @@ Os objetivos de desenvolvimento são:
 * Cadastro da secretaria ✅
 * Cadastro acadêmico do aluno - notas, faltas e matérias ✅
 * Cadastro de atividades complementares ✅
-* Módulo financeiro (geração de boletos para pagamento)
+* Módulo financeiro (geração de boletos para pagamento) ✅
 * Módulo de relatórios
 Terá como base os casos de uso requisitados pelos usuários fictícios:
 * 🧒 Requisitos do Aluno
