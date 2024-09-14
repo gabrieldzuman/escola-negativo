@@ -12,7 +12,7 @@ Os objetivos de desenvolvimento são:
 * Módulo de relatórios
 Terá como base os casos de uso requisitados pelos usuários fictícios:
 * 🧒 Requisitos do Aluno
-    * Consulta de agenda de provas, aulas e atividades extras.
+    * Consulta de agenda de provas, aulas e atividades extras ✅
     * Permissão para se matricular em matérias extras.
     * Chat para contato com o professor.
     * Consulta de matérias organiza por disciplinas cursadas.
